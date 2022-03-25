@@ -3,9 +3,9 @@
    “role” : “Programador”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "Resume"   : "https://veromoreno.github.io/",
-      "IG"       : "https://www.instagram.com/webmaker.sv/"
+      "Linkedin"   : "https://www.linkedin.com/in/daniel-marquez-sv", 
+      "portafolio" : "http://danielmarquez.ga/",
+      "IG"         : "https://www.instagram.com/webmaker.sv/"
      }
  }
 ```
