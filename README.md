@@ -12,9 +12,11 @@
 
 <h3>
   🚀 Principal Stack
-  <img src="https://img.shields.io/badge/PHP-546E8C?style=for-the-badge&logo=php&logoColor=white">
 </h3> 
 
+<p>
+ <img src="https://img.shields.io/badge/PHP-546E8C?style=for-the-badge&logo=php&logoColor=white">
+</p>
 
 👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
 Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
