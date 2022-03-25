@@ -5,7 +5,7 @@
      { 
       "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
       "Resume"   : "https://veromoreno.github.io/",
-      "IG"       : "https://www.instagram.com/veritechie"
+      "IG"       : "https://www.instagram.com/webmaker.sv/"
      }
  }
 ```
