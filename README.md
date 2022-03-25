@@ -11,7 +11,7 @@ compañía que se ajuste a mis valores y expectativas.
 - 💽 Software de Gestion: Proxmox , Observium , github.
 - ⚙️ CMS: Plesk,Aapanel,Hostinger y HostGator.
 - 💾 CRM: SPlYNX ISP Framework.
-- 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y 
+- 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y apache
 
 <!---
 developer-marquez/developer-marquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
