@@ -1,6 +1,6 @@
 ```shell
- { “name” : “Verónica Moreno Flores”,
-   “role” : “Frontend Dev | MERN Stack”,
+ { “name” : “Daniel Márquez”,
+   “role” : “Programador”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
