@@ -1,3 +1,14 @@
+```shell
+ { “name” : “Verónica Moreno Flores”,
+   “role” : “Frontend Dev | MERN Stack”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Resume"   : "https://veromoreno.github.io/",
+      "IG"       : "https://www.instagram.com/veritechie"
+     }
+ }
+```
 👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
 Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
 Gracias a mi formación y experiencia obtenida, considero que puedo aportar valor y continuar desarrollándome en una
