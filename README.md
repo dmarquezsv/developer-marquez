@@ -1,4 +1,4 @@
-- 👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
+👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
 Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
 Gracias a mi formación y experiencia obtenida, considero que puedo aportar valor y continuar desarrollándome en una
 compañía que se ajuste a mis valores y expectativas.
