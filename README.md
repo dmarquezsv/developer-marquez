@@ -10,6 +10,11 @@
  }
 ```
 
+👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
+Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
+Gracias a mi formación y experiencia obtenida, considero que puedo aportar valor y continuar desarrollándome en una
+compañía que se ajuste a mis valores y expectativas.
+
 <h3>
   🚀 Principal Stack
 </h3> 
@@ -22,11 +27,6 @@
  <img src="https://img.shields.io/badge/Servidores-65CACF?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img src="https://img.shields.io/badge/PHPMYADMIN-E1A344?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </p>
-
-👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
-Cuento con 2 años de experiencia laboral asociado a front end y back end como también un 1 año en administradores de servidores.
-Gracias a mi formación y experiencia obtenida, considero que puedo aportar valor y continuar desarrollándome en una
-compañía que se ajuste a mis valores y expectativas.
 
 - 💻 Back-End: PHP, Laravel, Android Studio Java , JQuery ,AJAX, Javascript y Java.
 - 🗂️ Front-end: HTML, CSS, Bootstrap 5, Wordpress , Elementor y Divi.
