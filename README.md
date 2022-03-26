@@ -28,6 +28,14 @@ compañía que se ajuste a mis valores y expectativas.
  <img src="https://img.shields.io/badge/PHPMYADMIN-E1A344?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </p>
 
+<h4>Herramientas y Tecnologías</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</p>
+
 - 💻 Back-End: PHP, Laravel, Android Studio Java , JQuery ,AJAX, Javascript y Java.
 - 🗂️ Front-end: HTML, CSS, Bootstrap 5, Wordpress , Elementor y Divi.
 - 🗃️ Base de datos: MYSQL y phpmyadmin.
