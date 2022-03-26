@@ -38,7 +38,7 @@ compañía que se ajuste a mis valores y expectativas.
 - 📡 Telecomunicacione: IPTV (Nimble Streamer,THEO Player, Magoware y Exoplayer)
 - 🖥️ Sistemas Operativo: Linux (Ubuntu 18.04, Ubuntu 20.04, Debian) , Windows.
 - 💽 Software de Gestion: Proxmox , Observium , github.
-- ⚙️ CMS: Plesk,Aapanel,Hostinger y HostGator.
+- ⚙️ CMS: Plesk,Aapanel,Hostinger ,cpanel y HostGator.
 - 💾 CRM: SPlYNX ISP Framework.
 - 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y apache
 
