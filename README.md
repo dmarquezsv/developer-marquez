@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/Laravel%208-FF5733?style=for-the-badge&logo=laravel&logoColor=white">
  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Android-69A243?style=for-the-badge&logo=android&logoColor=white">
+ <img src="https://img.shields.io/badge/Servidores-65CACF?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
 👋 Hola, Mi nombre es Daniel Márquez. Soy una persona responsable, organizada y que además adora los retos. 
