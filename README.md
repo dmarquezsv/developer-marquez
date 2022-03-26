@@ -35,7 +35,7 @@ compañía que se ajuste a mis valores y expectativas.
 - 💻 Back-End: PHP, Laravel, Android Studio Java , JQuery ,AJAX, Javascript y Java.
 - 🗂️ Front-end: HTML, CSS, Bootstrap 5, Wordpress , Elementor y Divi.
 - 🗃️ Base de datos: MYSQL y phpmyadmin.
-- 📡 Telecomunicacione: IPTV (Nimble Streamer,THEO Player, Magoware)
+- 📡 Telecomunicacione: IPTV (Nimble Streamer,THEO Player, Magoware y Exoplayer)
 - 🖥️ Sistemas Operativo: Linux (Ubuntu 18.04, Ubuntu 20.04, Debian) , Windows.
 - 💽 Software de Gestion: Proxmox , Observium , github.
 - ⚙️ CMS: Plesk,Aapanel,Hostinger y HostGator.
