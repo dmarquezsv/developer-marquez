@@ -46,7 +46,7 @@ compañía que se ajuste a mis valores y expectativas.
    📱 Redes Sociales
 </h3>
 
-### <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">WebMaker.sv</a>
+### <a href="https://www.instagram.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.instagram.com/webmaker.sv" target="_blank">WebMaker.sv</a>
 
 
 <!---
