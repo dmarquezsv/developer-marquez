@@ -42,6 +42,11 @@ compañía que se ajuste a mis valores y expectativas.
 - 💾 CRM: SPlYNX ISP Framework.
 - 🔒 Redes y Seguridad: FTP, Web (Apache, NGINX) , Hotspot (Mikrotik) y apache
 
+<h3>
+   📱 Redes Sociales
+</h3>
+
+
 <!---
 developer-marquez/developer-marquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
