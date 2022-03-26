@@ -28,9 +28,9 @@ compañía que se ajuste a mis valores y expectativas.
  <img src="https://img.shields.io/badge/PHPMYADMIN-E1A344?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </p>
 
-<h4>
+<h3>
    ⚙️ Herramientas y Tecnologías
-</h4>
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
