@@ -50,6 +50,16 @@ compañía que se ajuste a mis valores y expectativas.
 
 ### <a href="https://www.facebook.com/webmaker.sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webmaker.sv" height="30" width="40" /></a>  <a href="https://www.facebook.com/webmaker.sv" target="_blank">WebMaker.sv</a>
  
+ 
+ ### Github Stats:
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-marquez&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=developer-marquez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
+
 
 <!---
 developer-marquez/developer-marquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
